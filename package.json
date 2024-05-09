@@ -1,0 +1,15 @@
+{
+  "name": "entregable",
+  "version": "1.0.0",
+  "description": "Primera entrega",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Felipe Hernandez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
